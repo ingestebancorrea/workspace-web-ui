@@ -30,7 +30,7 @@ Este es el frontend para la aplicación de gestión de proyectos, desarrollado c
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/ingestebancorrea/streaming-classes-fe.git
+   git clone https://github.com/ingestebancorrea/workspace-web-ui
 
 
 2. Navega al directorio del proyecto:
